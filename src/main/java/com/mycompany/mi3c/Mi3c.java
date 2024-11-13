@@ -25,5 +25,6 @@ public class Mi3c {
             System.out.println("nol");
         }
         System.out.println("program selesai");
+        System.out.println("program selesai done");
     }
 }
